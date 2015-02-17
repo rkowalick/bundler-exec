@@ -47,12 +47,14 @@ foreman
 guard
 haml
 html2haml
+irb
 jasmine
 kitchen
 knife
 middleman
 pry
 rackup
+rails
 rake
 rake2thor
 rspec
@@ -61,6 +63,7 @@ sass
 sass-convert
 serve
 shotgun
+sidekiq
 spec
 spork
 strainer
